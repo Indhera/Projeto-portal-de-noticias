@@ -18,4 +18,14 @@ img {
         transparent 0%,
         #020617 100%);
     }
+
+    figcaption {
+        bottom: 0;
+        position: absolute;
+        padding: 24px;
+    
+    h2 {
+        margin-top: 8px;
+    }
+    }
 }
